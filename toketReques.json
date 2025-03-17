@@ -1,0 +1,8 @@
+{
+    "userid": "d85b3b3e-3b7b-4b3b-8b3b-3b7b3b7b3b7b",
+    "email": "manuel@gmail.com",
+    "customClaims": {
+        "admin": true,
+        "trusted_member": true
+    }
+}
